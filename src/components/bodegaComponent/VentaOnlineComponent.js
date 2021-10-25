@@ -1,9 +1,11 @@
 import React from 'react'
 import noticias from '../../assets/img/noticias.png';
-import atras from '../../assets/img/atras.png';
 import { subMenuBodegas } from '../../types/pagesInicioTypes';
 
 export const VentaOnlineComponent = ({parentStateSetter}) => {
+
+    const atras = require('../../assets/img/atras.png');
+
     return (
         <div>
             <div className="row align-items-center">
