@@ -4,7 +4,7 @@ import { subMenuBodegas } from '../../types/pagesInicioTypes';
 
 export const InventarioComponent = ({parentStateSetter}) => {
     return (
-        <div className="container">
+        <div>
             <div className="row align-items-center">
                 <div className="col-6 col-lg-4 d-flex justify-content-center">
                     <div className="bloqueMotivo">
