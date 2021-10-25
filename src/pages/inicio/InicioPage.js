@@ -4,7 +4,6 @@ import { BodegaComponent } from '../../components/BodegaComponent';
 import { InicioComponent } from '../../components/InicioComponent';
 import { useTitle } from '../../hooks/useTitle';
 import { rutasContenido } from '../../types/pagesInicioTypes';
-import atras from '../../img/atras.png';
 
 export const InicioPage = () => {
 
@@ -37,7 +36,6 @@ export const InicioPage = () => {
                 </nav>
             </div>
             <div className="row">
-                <img src={atras} alt="iconoCarga" style={{width:50,height:50}} className="centerImg"/>
                 { (title===rutasContenido.inicio) ? <InicioComponent /> : ""}
                 { (title===rutasContenido.bodegas) ? <BodegaComponent /> : ""}
                 { (title===rutasContenido.administracion) ? <AdministracionComponent /> : ""}
