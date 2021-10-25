@@ -1,6 +1,6 @@
 import React from 'react'
 import { subMenuBodegas } from '../../types/pagesInicioTypes';
-import atras from '../../assets/img/atras.png';
+import atras from '../../img/atras.png';
 
 export const SmMlImp = ({parentStateSetter}) => {
     return (

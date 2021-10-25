@@ -1,5 +1,5 @@
 import React from 'react'
-import noticias from '../assets/img/noticias.png';
+import noticias from '../img/noticias.png';
 
 export const InicioComponent = () => {
     return (

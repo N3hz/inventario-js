@@ -2,7 +2,7 @@ import React from 'react'
 import {
     useHistory,
 } from "react-router-dom";
-import icono from '../../assets/img/iconoCarga.png';
+import icono from '../../img/iconoCarga.png';
 
 export const LoginPage = () => {
 

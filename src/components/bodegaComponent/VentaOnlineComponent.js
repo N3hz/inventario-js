@@ -1,10 +1,9 @@
 import React from 'react'
-import noticias from '../../assets/img/noticias.png';
+import noticias from '../../img/noticias.png';
+import atras from '../../img/atras.png';
 import { subMenuBodegas } from '../../types/pagesInicioTypes';
 
 export const VentaOnlineComponent = ({parentStateSetter}) => {
-
-    const atras = require('../../assets/img/atras.png');
 
     return (
         <div>
