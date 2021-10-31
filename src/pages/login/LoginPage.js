@@ -3,7 +3,6 @@ import {
     useHistory,
 } from "react-router-dom";
 import icono from '../../img/iconoCarga.png';
-import atras from '../../img/atras.png';
 
 export const LoginPage = () => {
 
@@ -18,7 +17,6 @@ export const LoginPage = () => {
         <div className="fondoblue">
             <div className="login">
                 <img src={icono} alt="iconoCarga" style={{width:50,height:50}} className="centerImg"/>
-                <img src={atras} alt="atras" style={{width:50,height:50}} className="centerImg"/>
                 <h3>DGBox</h3>
                 <form method="post" onSubmit={handleLogin}>
                     <input type="text" className="inputLG" name="u" placeholder="Username" />
