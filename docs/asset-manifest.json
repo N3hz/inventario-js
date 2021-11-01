@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.6759c550.chunk.css",
-    "main.js": "./static/js/main.c1b1accb.chunk.js",
-    "main.js.map": "./static/js/main.c1b1accb.chunk.js.map",
+    "main.css": "./static/css/main.4abe9532.chunk.css",
+    "main.js": "./static/js/main.6c2dfafc.chunk.js",
+    "main.js.map": "./static/js/main.6c2dfafc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d3f56721.js",
     "runtime-main.js.map": "./static/js/runtime-main.d3f56721.js.map",
     "static/js/2.90d1d678.chunk.js": "./static/js/2.90d1d678.chunk.js",
     "static/js/2.90d1d678.chunk.js.map": "./static/js/2.90d1d678.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.6759c550.chunk.css.map": "./static/css/main.6759c550.chunk.css.map",
+    "static/css/main.4abe9532.chunk.css.map": "./static/css/main.4abe9532.chunk.css.map",
     "static/js/2.90d1d678.chunk.js.LICENSE.txt": "./static/js/2.90d1d678.chunk.js.LICENSE.txt",
+    "static/media/ajusteInventario.35fa7179.png": "./static/media/ajusteInventario.35fa7179.png",
     "static/media/atras.f8dbbaee.png": "./static/media/atras.f8dbbaee.png",
-    "static/media/iconoCarga.c309f388.png": "./static/media/iconoCarga.c309f388.png"
+    "static/media/despachoSucursal.e2fd3f73.png": "./static/media/despachoSucursal.e2fd3f73.png",
+    "static/media/iconoCarga.c309f388.png": "./static/media/iconoCarga.c309f388.png",
+    "static/media/oc.553c34f0.png": "./static/media/oc.553c34f0.png",
+    "static/media/ventaOnline.b10a3fab.png": "./static/media/ventaOnline.b10a3fab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f56721.js",
     "static/js/2.90d1d678.chunk.js",
-    "static/css/main.6759c550.chunk.css",
-    "static/js/main.c1b1accb.chunk.js"
+    "static/css/main.4abe9532.chunk.css",
+    "static/js/main.6c2dfafc.chunk.js"
   ]
 }
